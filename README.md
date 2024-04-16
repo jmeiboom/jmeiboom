@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Justin. I live in Canada. I am glad to be here. I am a chef. I have little experience with coding. I tried a few years back to learn how to create websites. I learned alot then, but I kind of lost interest a bit. When it came to java script I didn't take the time to figure it out. I am still interested in learning computer languages and programming. I am currently learning Python and want to design programs for the food service industry. My first and current project that I decided to work on is a menu planner and food cost calculator. I look forward to learning more about Python and other languages as I continue to work on my project. Right now I am heavily reliant on Chat GPT to help me figure out how to write this code. I am a dreamer with some good ideas and I want to learn how to realise my dreams. I hope that Github will be a good place for me to share knowledge and gain knowledge with others.
+
+Thank you for taking the time to read about me. If you have any questions please reach out and ask. I am also happy to collaborate if you like my project or if you think I will have insight on your project.
 <!--
 **jmeiboom/jmeiboom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
